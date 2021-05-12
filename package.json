@@ -20,7 +20,7 @@
         "vue": "^2.5.17"
     },
     "dependencies": {
-        "codemirror": "^5.42.0",
+        "codemirror": "^5.58.2",
         "summernote": "^0.8.11"
     }
 }
